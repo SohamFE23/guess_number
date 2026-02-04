@@ -16,4 +16,4 @@ Using loops and conditional statements
 Improving logical thinking and problem-solving skills
 
 🔹 Common Tech Stack Line
-Technologies Used: Java | Console Application
+Technologies Used: Python | Console Application
